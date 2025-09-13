@@ -37,7 +37,7 @@ export const SectionPresentation = () => {
           Développeur Web Full Stack Javascript
         </Typography>
         <Typography color="text.secondary" sx={{ maxWidth: 500 }}>
-          Étudiant en 4ème année d'Informatique, passionné par le développement
+          Étudiant en 4ème année d&apos;Informatique, passionné par le développement
           web avec Javascript. Je conçois des applications modernes, performantes
           et intuitives.
         </Typography>

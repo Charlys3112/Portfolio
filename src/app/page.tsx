@@ -1,6 +1,5 @@
 'use client'
 //import Image from "next/image";
-import styles from "./page.module.css";
 import { Competence } from "@/composents/Comptence";
 import { SectionContact } from "@/composents/Contact";
 import { SectionPresentation } from "@/composents/Acceuil";
