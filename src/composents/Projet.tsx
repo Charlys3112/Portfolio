@@ -37,7 +37,7 @@ export const SectionProjets = () => {
           direction={{ xs: "row", }}
           
           sx={{ justifyContent: "center", flexWrap: "wrap" , gap:3,      
-    mt:3,}}
+           mt:3,}}
         >
           {projets.map((projet, index) => (
             <motion.div

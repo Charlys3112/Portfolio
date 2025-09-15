@@ -43,10 +43,10 @@ export const SectionPresentation = () => {
         </Typography>
 
         <Box sx={{ mt: 4, display: "flex", gap: 2 }}>
-          <Button variant="contained" size="large">
+          <Button variant="contained" size="large" href="#contact">
              Me Contacter
           </Button>
-          <Button variant="outlined" size="large" color="primary">
+          <Button variant="outlined" size="large" color="primary" href="#projets">
             Voir mes projets
           </Button>
         </Box>
